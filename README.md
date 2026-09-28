@@ -1,1 +1,1 @@
-# .github
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=burlik-dev&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=burlik-dev&langs_count=4&theme=dark)
